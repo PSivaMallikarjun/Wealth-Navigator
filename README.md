@@ -1,3 +1,5 @@
+# Wealth Navigator - Adaptive Inflation Guard for Bank Accounts
+
 # Finance Management Dashboard with AI-Powered Insights
 
 This project is a comprehensive finance management dashboard built with Next.js, integrated with Firebase for backend services, Genkit AI for intelligent insights, and utilizing shadcn/ui for a modern and accessible user interface.
