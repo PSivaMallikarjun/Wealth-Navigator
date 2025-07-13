@@ -48,3 +48,7 @@ The project follows a standard Next.js file structure with additional directorie
 2. Install dependencies:
 
 
+
+
+https://github.com/user-attachments/assets/5c919225-8e41-4a9e-82a4-3a9b32ec968c
+
